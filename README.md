@@ -8,3 +8,5 @@ I'm [Mehmet Fuat Rıhtım](https://www.linkedin.com/in/mehmet-fuat-r%C4%B1ht%C4%
 
 <img height="150em" align="left" src="https://github-readme-stats.vercel.app/api?username=fuatrihtim&show_icons=true&hide_border=true&theme=dark&layout=compact" />
 <img height="150em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuatrihtim&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10&theme=dark"/>
+
+<img src="https://komarev.com/ghpvc/?username=GozdeSaygiliYalcin&style=flat-square&color=blue" alt=""/>
