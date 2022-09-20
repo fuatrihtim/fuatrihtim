@@ -1,6 +1,6 @@
-### Hi there 👋 
-
 <img alt="GIF" src="https://i.imgur.com/VpzdAVQ.gif" />
+
+### Hi there 👋 
 
 I'm [Mehmet Fuat Rıhtım](https://www.linkedin.com/in/mehmet-fuat-r%C4%B1ht%C4%B1m/)
 
