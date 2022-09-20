@@ -1,5 +1,7 @@
 ### Hi there 👋 
 
+<img align="left" alt="GIF" src="https://i.imgur.com/VpzdAVQ.gif" />
+
 I'm [Mehmet Fuat Rıhtım](https://www.linkedin.com/in/mehmet-fuat-r%C4%B1ht%C4%B1m/)
 
 <p> I am a passionate computer engineer who work at Lely. I have knowledge in different domains like e-commerce, loyalty, pos systems, erp, crm, product management, warehouse management, employee engagement, trading, payment systems and so on. </p>
