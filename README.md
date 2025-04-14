@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I'm [Mehmet Fuat Rıhtım](https://www.linkedin.com/in/mehmet-fuat-r%C4%B1ht%C4%B1m/)
+I'm [Mehmet Rıhtım](https://www.linkedin.com/in/mehmet-rihtim/)
 
 <p> I am a passionate computer engineer who works at SITA I have knowledge in different domains like e-commerce, loyalty, POS systems, ERP, CRM, product management, warehouse management, employee engagement, trading, payment systems and so on. </p>
 
